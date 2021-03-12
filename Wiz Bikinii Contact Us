@@ -1,0 +1,36 @@
+<!-- Home Web Clothing Website Page -->
+<!DOCTYPE HTML>
+<HTML>
+   
+        <Head>
+            <title>Wiz Bikini E&Atilde;® HypeMarket Shirts, Jumpers, Sneakers, Socks &amp; hats</title>
+            <link rel="stylesheet" href="./style.css" />
+            <div id="header" align="center" style="background-color: azure">
+            <body>
+                 <!-- Logo -->
+                       
+               <hr><h1 align="center" style="color:darkblue"><span style="font-family: Papyrus" ><font size="100"> Wiz Bikini E&Atilde;®</font></span></h1>
+            
+                                
+          <!-- link anchor tag -->
+                
+                
+                    
+          <a href="Wiz%20Bikini.html" target= "_blank" alink="red" vlink="green" style="font-family:Lucida Handwriting" ><font size="5"> Home</font> </a>&nbsp;&nbsp;&#124;
+                <a href="New.html" vlink ="pink" target= "_blank" style="font-family:Lucida Handwriting"><font size="5"> New</font></a> &nbsp;&nbsp;&#124;&nbsp;&nbsp;
+                <a href="Queen.html" vlink ="pink" target= "_blank" style="font-family:Lucida Handwriting"><font size="5">Queen</font></a>&nbsp;&nbsp;&#124;&nbsp;&nbsp;
+                <a href="King.html" vlink ="pink" target= "_blank" style="font-family:Lucida Handwriting"><font size="5">King</font></a>&nbsp;&nbsp;&#124;&nbsp;&nbsp;
+                <a href="Sale.html" vlink ="pink" target= "_blank" style="font-family:Lucida Handwriting"><font size="5">Sale</font></a>&nbsp;&nbsp;&#124;&nbsp;&nbsp;
+                <a href="contact.html" vlink ="pink" target= "_blank" style="font-family:Lucida Handwriting"><font size="5">Contact Us</font></a> &nbsp;&nbsp;&#124;&nbsp;&nbsp;<hr>
+                </body>
+                </div>    
+           <hr> <body style="background-color: lightsteelblue">
+            
+                <h2 align="center"style="color:darkblue"><span style="font-family: Papyrus"> Contact Us</span></h2><hr>
+            
+            
+            </body>
+            
+    </Head>
+</HTML>
+   
