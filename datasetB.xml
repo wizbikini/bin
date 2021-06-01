@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!-- ITC5202 - Your name : ..... -->
+<order xmlns="http://ITC5202.com/ord">
+  <number>123ABBCC123</number>
+  <items>
+    <prod:product xmlns:prod="http://ITC5202.com/prod">
+      <prod:number>998</prod:number>
+      <prod:size system="US-DRESS">17</prod:size>
+    </prod:product>
+    <prod:product>
+      <prod:number>601</prod:number>
+      <prod:size system="US-DRESS">25</prod:size>
+    </prod:product>
+  </items>
+</order>
